@@ -1,0 +1,111 @@
+:root {
+    --axent: #2196f3;
+    --main: #2f303a;
+    --section: #f5f4fa;
+    --background: #ffffff;
+    --title: #212121;
+    --text: #757575;
+    --firstlogo: #000000;
+    --maintext: #ffffff;
+    --contacts: rgba(255, 255, 255, 0.6);
+    --border: #eeeeee;
+    --heder-shadow: #ececec;
+}
+h1, h2, h3, h4, h5, h6, p, ul, li, button, img, a {
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: var(--firstlogo);
+    text-decoration: none;
+}
+ul {
+    list-style: none; 
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+.Logo{
+    font-family: 'RaleWay', sans-serif;
+    font-size: 24px;
+    letter-spacing: 3%;
+}
+.header-con{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    letter-spacing: 2%;
+}
+.header-adrr{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    letter-spacing: 2%;
+}
+.h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+    line-height: 0.13px;
+    letter-spacing: 6%;
+    text-align: center;
+}
+.button{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1,85px;
+    letter-spacing: 6%;
+}
+.p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 0.58px;
+    letter-spacing: 3%;
+}
+.h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px; 
+    letter-spacing: 3%;
+    text-align: center;
+}
+.h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    letter-spacing: 3%;
+    text-align: center;
+}
+.h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    letter-spacing: 3%;
+    text-align: center;
+}
+.name{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    letter-spacing: 3%;
+}
+.work{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    letter-spacing: 3%;
+}
+.text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 0.58px;
+    letter-spacing: 3%;
+}
+
+.adr{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 0.58px;
+    letter-spacing: 3%;
+}
+
+.tel-adr{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 0.58px;
+    letter-spacing: 3%;
+}
